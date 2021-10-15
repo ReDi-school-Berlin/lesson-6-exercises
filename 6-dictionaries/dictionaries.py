@@ -13,7 +13,7 @@ person =
 
 
 # --------------------
-# add values for this persons, like name, phone, email, address etc in the dictionary
+# add values for this person, like name, phone, email, address etc in the dictionary
 
 
 
