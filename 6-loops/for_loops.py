@@ -5,6 +5,19 @@ fruits = ["banana", "apple", "cherry"]
 
 
 
+#  ----------------------------
+# Print every integer number until 10 starting from 1 using a for loop and the range() function
+
+
+
+
+
+
+# ----------------
+# Using the same loop above, stop printing when it's 5
+
+
+
 
 
 

@@ -38,8 +38,8 @@
 # print(type(y))
 
 
-
-print(type(5 > 3))
+# #What would this print?
+# print(type(5 > 3))
 
 
 

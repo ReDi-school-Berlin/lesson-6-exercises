@@ -1,4 +1,13 @@
+# Print every integer number until 10 starting from 1 using a while loop
+i = 1 
 
+
+
+
+
+
+# ----------------
+# Using the same loop above, stop printing when it's 5
 
 
 
