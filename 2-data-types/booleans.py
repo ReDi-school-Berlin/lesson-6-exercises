@@ -1,10 +1,18 @@
 # What would this print?
-print(10>9)
+print(20 > 13)
 
 
 
 
 
+# What would this print?
+print(20 == 13)
+
+
+
+
+# What would this print?
+print(20 < 13)
 
 
 

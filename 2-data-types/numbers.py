@@ -1,6 +1,10 @@
+# There are two number types, what are they? 
 
+x = 
+print(type(x))
 
-
+y = 
+print(type(y))
 
 
 
