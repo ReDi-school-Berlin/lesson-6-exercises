@@ -18,9 +18,13 @@ person =
 
 
 
+# --------------------
+# Check if the dictionary has a key that doesn't exist
+
+
 
 # ----------------
-# get person's phone. Hint: two ways 
+# get person's phone. Hint: there are two ways 
 
 
 
