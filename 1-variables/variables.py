@@ -1,12 +1,12 @@
-# assign a string to a variable 
+# assign a string to a variable named x
 
 
 
 
-# assign an integer value to a variable
+# assign an integer value to a variable named y
 
 
-# create another variable with an integer and display the sum of two variables
+# create another variable named z with an integer value and display the sum of two variables
 
 
 
