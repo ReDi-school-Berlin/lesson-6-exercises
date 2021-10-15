@@ -1,4 +1,5 @@
-
+# What would this print?
+print(10>9)
 
 
 
