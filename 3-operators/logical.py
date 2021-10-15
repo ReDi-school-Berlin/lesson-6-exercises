@@ -6,6 +6,9 @@
 
 
 
+# What is missing below?
+if 9 > 10 .. 4 > 3:
+    print("At least one of the statements are true")
 
 
 
@@ -13,7 +16,9 @@
 
 
 
-
+# What is missing below?
+if 9 > 10 .. 4 > 3:
+    print("Both statements are true")
 
 
 

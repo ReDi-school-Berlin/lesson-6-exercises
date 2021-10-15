@@ -1,3 +1,4 @@
+# What are some comparison operators that we've seen so far?
 
 
 
@@ -16,6 +17,9 @@
 
 
 
+
+
+# What is the difference between '=' and '=='?
 
 
 
