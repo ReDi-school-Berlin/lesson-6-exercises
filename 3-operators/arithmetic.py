@@ -1,5 +1,8 @@
 # What are the arithmetic operators we've seen so far?
+# modulo 
+print( 20 % 3 ) 
 
+print( 20 + 4 )
 
 
 

@@ -1,13 +1,13 @@
-#What's wrong with the code below?
+# What's wrong with the code below
 def function_name(parameter):
-print(parameter)
+    print(parameter)
 
 
 
-#How can we comment out these multiple lines below?
-This is a line of comment
+# How can we comment out these multiple lines below?
+"""This is a line of comment
 This is another line of comment
-And finally yet another comment
+And finally yet another comment"""
 
 
 

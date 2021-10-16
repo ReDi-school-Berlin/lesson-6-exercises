@@ -1,4 +1,12 @@
 # What are some comparison operators that we've seen so far?
+10 > 5
+
+10 == 5
+
+10 != 5
+
+10 >= 5
+
 
 
 

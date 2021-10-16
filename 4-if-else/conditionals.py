@@ -1,5 +1,10 @@
 # What are the conditional statements?
-
+if 10 > 5:
+    print("10>5")
+elif 10 > 5:
+    print("")
+else:
+    pass
 
 
 

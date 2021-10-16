@@ -1,3 +1,10 @@
+# How to learn the data type of a variable?
+# x = 5
+# print(type(x))
+
+
+
+
 # #What would this print?
 # x = 5
 # print(type(x))
@@ -39,7 +46,7 @@
 
 
 # #What would this print?
-# print(type(5 > 3))
+print(type(5 > 3))
 
 
 

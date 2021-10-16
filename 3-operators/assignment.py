@@ -1,4 +1,11 @@
 # What are some assignment operators that we've seen so far?
+# x = 5 
+
+x += 5 
+# x = x + 5
+
+x %= 3
+
 
 
 

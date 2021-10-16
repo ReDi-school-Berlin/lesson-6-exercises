@@ -6,13 +6,13 @@ print(20 > 13)
 
 
 # What would this print?
-print(20 == 13)
+# print(20 == 13)
 
 
 
 
 # What would this print?
-print(20 < 13)
+# print(20 < 13)
 
 
 
